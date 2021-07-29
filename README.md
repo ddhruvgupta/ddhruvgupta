@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 •	IoT: Leveraged Bluetooth to identify if registered users are in the office, using a network of Raspberry Pi computers to ping the Bluetooth NIC at a 10 min. interval, update PHP Web Application with an created API used by a Native Android Application (Java) and Amazon Alexa (Node js)[ https://github.com/ddhruvgupta/Bluetooth ]
-•	After School Program Management System: Scrum team of 4 students. Designed website layout wireframes, built front end using BootStrap 4, jQuery for drop downs, Ajax for autocomplete and DataTables.js for interaction with data. Created module to accept signatures for a waiver module using Signature.js. Tested against SQL injection. [ https://github.com/ddhruvgupta/afterschool ]
+
+-- After School Program Management System: Scrum team of 4 students. Designed website layout wireframes, built front end using BootStrap 4, jQuery for drop downs, Ajax for autocomplete and DataTables.js for interaction with data. Created module to accept signatures for a waiver module using Signature.js. Tested against SQL injection. [ https://github.com/ddhruvgupta/afterschool ]
 •	Network Protocol Improvement: Analyzed and simulated algorithm for job dispatch and scheduling in edge networks. Identified bottlenecks in performance and proposed updates to algorithm. [ https://github.com/ddhruvgupta/ACN ]
 •	Smart home application using RF vulnerability: Etekcity wireless switches use unencrypted traffic over RF to control home lighting systems. Using in-built Python libraries, RF hardware and a raspberry pi it was possible to demonstrate that such home automation solutions could be attacked by a malicious actor.
 •	Worm for Ubuntu: Created a non weaponized worm program in C for Ubuntu that would infect a program used to create an RC4 cipher stream. [ https://github.com/ddhruvgupta/Worm_C ]
