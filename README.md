@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my profile. You can browse through some of the projects that I have worked on in my repositories. 
+
+⚡ Here is a hightlight of some of the different projects that I have worked on:
+
 <!--
 **ddhruvgupta/ddhruvgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
